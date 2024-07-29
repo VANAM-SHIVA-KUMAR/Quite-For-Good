@@ -1,0 +1,47 @@
+#quitSection{
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+   align-items: center;
+}
+
+#im4 {
+   width: 500px;
+   margin: 0px 0px 0px 300px;
+}
+
+img{
+    margin: 0px 0px 0px 150px;
+    
+    cursor: pointer;
+}
+
+.heading{
+    justify-content: center;
+   align-items: center;
+   text-align: center;
+
+}
+
+p{
+    justify-content: center;
+   align-items: center;
+   text-align: center;
+   padding-bottom: 40px;
+}
+
+.storybox{
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.storybox h1{
+    text-decoration: underline;
+}
+
+
+
